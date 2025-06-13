@@ -15,7 +15,8 @@ This specific installation exemplifies the series' approach:
 
 The installation prioritises a straightforward technical setup for ease of deployment and maintenance:
 
-![image](https://github.com/user-attachments/assets/6a2bfcc5-5d58-42b7-908e-66cd09c246aa)
+![image](https://github.com/user-attachments/assets/8d4245f3-9470-44a3-a4e2-e08e53f2e2a7)
+
 
 
 * **In-frame Element**: The open-reel tape itself is purely a visual element; it is a dummy reel, not connected to any playback mechanism within the frame.
