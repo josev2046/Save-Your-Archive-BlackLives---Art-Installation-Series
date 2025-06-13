@@ -29,3 +29,9 @@ The installation prioritises a straightforward technical setup for ease of deplo
 ## Future Installations
 
 This Fela Kuti piece is the first in a planned series. We intend to develop further installations focusing on other significant figures and moments from the Black British and broader Black diaspora experience.
+
+## About the Authors
+
+José Velázquez, MA, is an archive and multimedia producer with over two decades designing interoperable systems. His work bridges the gap between technology, academia, and the creative industries, focusing on audiovisual preservation and cultural memory.
+
+Dr. David Dunkley Gyimah is a Senior Lecturer at the Cardiff School of Journalism, Media and Culture. He specialises in innovation and digital labs within journalism and storytelling, international journalism, and cinema journalism.
