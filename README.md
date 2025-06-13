@@ -19,9 +19,8 @@ The installation prioritises a straightforward technical setup for ease of deplo
 
 
 
-* **In-frame Element**: The open-reel tape itself is purely a visual element; it is a dummy reel, not connected to any playback mechanism within the frame.
-* **Digital Playback**: All audio playback is managed independently by the hidden digital media player, ensuring reliability and consistent sound quality.
-* **Direct Connection**: The headphones are cabled directly to the hidden media player, offering a dedicated and personal listening experience.
+* **In-frame Element**: The open-reel tape itself is purely a visual element; it is an old archive reel, not connected to any playback mechanism within the frame.
+* **Digital Playback**: All audio playback is managed independently by the hidden digital media player, ensuring reliability and consistent sound quality. The headphones are cabled directly to the hidden media player, offering a dedicated and personal listening experience.
 
 ## Project Ethos
 
