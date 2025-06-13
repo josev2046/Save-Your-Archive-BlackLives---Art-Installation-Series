@@ -24,7 +24,7 @@ The installation prioritises a straightforward technical setup for ease of deplo
 
 ## Project Ethos
 
-"Save Your Archive: BlackLives" is more than just an art object; it is a portal. It highlights the rich tapestry of the Blacklondon Radio Project (see [https://github.com/josev2046/SYA-BlackLives-The-GLR-Black-London-Collection](https://github.com/josev2046/SYA-BlackLives-The-GLR-Black-London-Collection) for more details). Through these installations, we aim to encourage reflection on history, activism, and the ongoing journey for liberation, bringing these vital recordings to a wider audience in an accessible and engaging format.
+"Save Your Archive: BlackLives" is more than just an art object; it is a portal. It highlights the rich tapestry of the Black London Radio project (see [https://github.com/josev2046/SYA-BlackLives-The-GLR-Black-London-Collection](https://github.com/josev2046/SYA-BlackLives-The-GLR-Black-London-Collection) for more details). Through these installations, we aim to encourage reflection on history, as this material offers a unique insight into the Black British experience, covering themes of systemic racism, political activism, cultural production, and social justice during a pivotal period in the UK.
 
 ## Future Installations
 
