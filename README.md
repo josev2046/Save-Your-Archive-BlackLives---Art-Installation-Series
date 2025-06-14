@@ -15,16 +15,22 @@ This specific installation exemplifies the series' approach:
 
 The installation prioritises a straightforward technical setup for ease of deployment and maintenance:
 
-![image](https://github.com/user-attachments/assets/8d4245f3-9470-44a3-a4e2-e08e53f2e2a7)
-Figure 1
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8d4245f3-9470-44a3-a4e2-e08e53f2e2a7" alt="Figure 1: Open-reel tape as visual element" width="50%">
+  <p>Figure 1</p>
+</div>
 
 * **In-frame Element**: The open-reel tape itself is purely a visual element; it is an old archive reel, not connected to any playback mechanism within the frame.
 * **Digital Playback**: All audio playback is managed independently by the hidden digital media player, ensuring reliability and consistent sound quality. The headphones are cabled directly to it, offering a dedicated and personal listening experience.
 
-![image](https://github.com/user-attachments/assets/1b48398a-2703-4cd3-b466-4da24996e4f1)
-Figure 2
+---
 
-* **In-frame Element**: A photograph of the archive.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1b48398a-2703-4cd3-b466-4da24996e4f1" alt="Figure 2: Archive photograph or portrait within frame" width="50%">
+  <p>Figure 2</p>
+</div>
+
+* **In-frame Element**: A photograph of the archive, a portrait of the artist...
 * **Digital Playback**: As above, all audio playback is managed independently by the hidden digital media player.
 
 
