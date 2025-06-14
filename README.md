@@ -2,7 +2,7 @@
 
 This repository details the "Save Your Archive: BlackLives" art installation series, a collection of exhibits designed to honour, preserve, and present pivotal Black voices and narratives. Each installation offers an intimate auditory experience, bridging historical archives with contemporary engagement.
 
-## Example Installation: The Fela Kuti Tapes
+## Example Installation: The Fela Kuti Tapes, "Unframed Voices" (Working title)
 
 This specific installation exemplifies the series' approach:
 
