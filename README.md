@@ -6,21 +6,28 @@ This repository details the "Save Your Archive: BlackLives" art installation ser
 
 This specific installation exemplifies the series' approach:
 
-* **Visual Centrepiece**: A quarter-inch open-reel tape is mounted prominently within a clean, elegant frame. This serves as a symbolic focal point, representing the analogue origins of recorded sound.
-* **Hidden Audio**: Discreetly positioned behind the frame, a digital media player provides a continuous sound loop. This setup ensures that the visual simplicity of the reel is maintained whilst delivering the auditory content.
-* **Immersive Listening**: A pair of headphones, connected to the hidden player, beckons the viewer to lean in and absorb the powerful narrative.
-* **Content Focus**: The sound loop features a radio interview with the legendary Fela Kuti from 1992. This direct connection to a key figure provides an immersive historical experience.
+* **Visual Centrepiece**: A quarter-inch open-reel tape (Figure 1) or a photograph (Figure 2) is mounted prominently within a clean, elegant frame. 
+* **Hidden Audio**: Discreetly positioned behind the frame, a digital media player provides a continuous sound loop. 
+* **Immersive Listening**: A pair of headphones, connected to the hidden player, beckons the viewer to lean in and absorb the narrative.
+* **Content Focus**: e.g. The sound loop features a radio interview with the legendary Fela Kuti from 1992. 
 
 ## Technical Simplicity
 
 The installation prioritises a straightforward technical setup for ease of deployment and maintenance:
 
 ![image](https://github.com/user-attachments/assets/8d4245f3-9470-44a3-a4e2-e08e53f2e2a7)
-
-
+Figure 1
 
 * **In-frame Element**: The open-reel tape itself is purely a visual element; it is an old archive reel, not connected to any playback mechanism within the frame.
-* **Digital Playback**: All audio playback is managed independently by the hidden digital media player, ensuring reliability and consistent sound quality. The headphones are cabled directly to the hidden media player, offering a dedicated and personal listening experience.
+* **Digital Playback**: All audio playback is managed independently by the hidden digital media player, ensuring reliability and consistent sound quality. The headphones are cabled directly to it, offering a dedicated and personal listening experience.
+
+![image](https://github.com/user-attachments/assets/1b48398a-2703-4cd3-b466-4da24996e4f1)
+Figure 2
+
+* **In-frame Element**: A photograph of the archive.
+* **Digital Playback**: As above, all audio playback is managed independently by the hidden digital media player.
+
+
 
 ## Project Ethos
 
