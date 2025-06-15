@@ -65,7 +65,7 @@ An initial development timeline envisions:
 
 ## Project Ethos
 
-Save Your Archive: #BlackLives is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as BlackLondon , the installations are intended to function not only as aesthetic experiences but as pedagogical and political interventions.
+Save Your Archive: BlackLives is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as Black London, the installations are intended to function not only as aesthetic experiences but as pedagogical and political interventions.
 
 They foreground overlooked or suppressed voices, activating them in public space and inviting new modes of listening, understanding, and remembrance.
 
