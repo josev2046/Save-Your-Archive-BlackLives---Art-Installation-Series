@@ -74,7 +74,7 @@ They foreground overlooked or suppressed voices, activating them in public space
 
 The Fela Kuti installation is the first in a planned series, with future pieces in development focusing on key figures and moments in Black British and diasporic media history. We are actively seeking funding, collaborators, and exhibition partners to realise this ambitious and vital project.
 
-## About the Authors
+## About the Artists
 
 José Velázquez, MA, is an archivist and multimedia producer with over two decades designing interoperable systems. His work bridges the gap between technology, academia, and the creative industries, focusing on audiovisual preservation and cultural memory.
 
