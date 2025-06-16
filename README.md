@@ -1,4 +1,4 @@
-# Save Your Archive: BlackLives - Art Installation Series
+# Save Your Archive: BlackLives - Art Installation Series Funding Proposal
 
 [![DOI](https://zenodo.org/badge/1001450434.svg)](https://doi.org/10.5281/zenodo.15672613)
 
@@ -6,10 +6,21 @@
 
 Each installation will be framed thematically and situated within broader historical and cultural contexts—curated to invite reflection on social justice, cultural memory, political resistance, and artistic expression. The series aims to evolve over time, functioning as both a growing repository and a travelling exhibition platform.
 
-## Example Installation: The Fela Kuti Tapes, "Unframed Voices" (Working title)
+## Curatorial Framework
+
+Save Your Archive: BlackLives is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as Black London, the installations are intended to function not only as aesthetic experiences but as pedagogical and political interventions.
+
+They foreground overlooked or suppressed voices, activating them in public space and inviting new modes of listening, understanding, and remembrance.
+
+Rather than a standalone display, the series is envisioned as a structured sequence of interconnected installations. Each will focus on thematically linked subjects—e.g., diasporic resistance, Black cultural production, anti-racist broadcasting—and may include multiple pieces per theme.
+
+This allows for more complex storytelling and offers opportunities to explore layered narratives through sound, artefacts, and visual documentation.
+
+## Exhibition Design Concpet
 
 This prototype installation exemplifies the series’ format and curatorial strategy:
 
+* **Title:** The Fela Kuti Tapes, "Unframed Voices"
 * **Visual Centrepiece**: A quarter-inch analogue open-reel archive tape or a photograph is prominently mounted within a minimalist frame, serving as both a visual artefact and conceptual entry point.
 * **Hidden Audio**: Embedded behind the visual display, a concealed digital media player plays a curated loop—e.g., a rare 1992 radio interview with Fela Kuti. 
 * **Immersive Listening**: High-quality headphones, discreetly connected to the player, invite individual listeners to physically lean in and engage deeply with the content (Figure 1); alternatively, a directional audio speaker or array (Figure 2), which projects the sound into the defined listening zone, offers a shared and immersive auditory experience for those within the designated area.
@@ -36,11 +47,7 @@ This prototype installation exemplifies the series’ format and curatorial stra
 </div>
 
 
-## Curatorial Framing
 
-Rather than a standalone display, the series is envisioned as a structured sequence of interconnected installations. Each will focus on thematically linked subjects—e.g., diasporic resistance, Black cultural production, anti-racist broadcasting—and may include multiple pieces per theme.
-
-This allows for more complex storytelling and offers opportunities to explore layered narratives through sound, artefacts, and visual documentation.
 
 
 ## Venues & Partnerships
@@ -68,9 +75,7 @@ An initial development timeline envisions:
 
 ## Project Ethos
 
-Save Your Archive: BlackLives is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as Black London, the installations are intended to function not only as aesthetic experiences but as pedagogical and political interventions.
 
-They foreground overlooked or suppressed voices, activating them in public space and inviting new modes of listening, understanding, and remembrance.
 
 
 ## Next Steps
