@@ -74,7 +74,7 @@ An initial development timeline envisions:
 
 The Fela Kuti installation is the first in a planned series, with future pieces in development focusing on key figures and moments in Black British and diasporic media history. We are actively seeking funding, collaborators, and exhibition partners to realise this ambitious and vital project.
 
-## About the Artists
+## Curators
 
 Dr. David Dunkley Gyimah is a Reader/Associate Professor at the Cardiff School of Journalism, Media and Culture. He specialises in innovation and digital labs within journalism and storytelling, international journalism, and cinema journalism.
 
