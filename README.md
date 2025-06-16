@@ -79,9 +79,11 @@ The Fela Kuti installation is the first in a planned series, with future pieces 
 
 ## About the Artists
 
+Dr. David Dunkley Gyimah is a Reader/Associate Professor at the Cardiff School of Journalism, Media and Culture. He specialises in innovation and digital labs within journalism and storytelling, international journalism, and cinema journalism.
+
 José Velázquez, MA, is an archivist and multimedia producer with over two decades designing interoperable systems. His work bridges the gap between technology, academia, and the creative industries, focusing on audiovisual preservation and cultural memory.
 
-Dr. David Dunkley Gyimah is a Senior Lecturer at the Cardiff School of Journalism, Media and Culture. He specialises in innovation and digital labs within journalism and storytelling, international journalism, and cinema journalism.
+
 
 
 
