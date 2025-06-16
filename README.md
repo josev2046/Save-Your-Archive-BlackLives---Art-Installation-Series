@@ -8,13 +8,9 @@ Each installation will be framed thematically and situated within broader histor
 
 ## Curatorial Framework
 
-Save Your Archive: BlackLives is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as Black London, the installations are intended to function not only as aesthetic experiences but as pedagogical and political interventions.
+"Save Your Archive: BlackLives" is rooted in the ethos of historical care, creative reclamation, and public access. Drawing from collections such as Black London, these installations are intended to function not merely as aesthetic experiences but as pedagogical and political interventions. They foreground overlooked or suppressed voices, activating them in public spaces and inviting new modes of listening, understanding, and remembrance.
 
-They foreground overlooked or suppressed voices, activating them in public space and inviting new modes of listening, understanding, and remembrance.
-
-Rather than a standalone display, the series is envisioned as a structured sequence of interconnected installations. Each will focus on thematically linked subjects—e.g., diasporic resistance, Black cultural production, anti-racist broadcasting—and may include multiple pieces per theme.
-
-This allows for more complex storytelling and offers opportunities to explore layered narratives through sound, artefacts, and visual documentation.
+Rather than a standalone display, the series is envisioned as a structured sequence of interconnected installations. Each will focus on thematically linked subjects—e.g., diasporic resistance, Black cultural production, anti-racist broadcasting—and may include multiple pieces per theme. This approach facilitates more complex storytelling and offers opportunities to explore layered narratives through sound, artefacts, and visual documentation.
 
 ## Exhibition Design Concpet
 
