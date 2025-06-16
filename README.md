@@ -12,7 +12,7 @@ Each installation will be framed thematically and situated within broader histor
 
 Rather than a standalone display, the series is envisioned as a structured sequence of interconnected installations. Each will focus on thematically linked subjects—e.g., diasporic resistance, Black cultural production, anti-racist broadcasting—and may include multiple pieces per theme. This approach facilitates more complex storytelling and offers opportunities to explore layered narratives through sound, artefacts, and visual documentation.
 
-## Exhibition Design Concpet
+## Exhibition Design Concept
 
 This prototype installation exemplifies the series’ format and curatorial strategy:
 
