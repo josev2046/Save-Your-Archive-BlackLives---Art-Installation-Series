@@ -69,10 +69,6 @@ An initial development timeline envisions:
 * First exhibition launch: Q2 2026
 * Touring series rollout: Q3 2026 onwards
 
-## Project Ethos
-
-
-
 
 ## Next Steps
 
