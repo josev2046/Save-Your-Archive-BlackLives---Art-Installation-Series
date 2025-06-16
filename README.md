@@ -1,5 +1,7 @@
 # Save Your Archive: BlackLives - Art Installation Series
 
+[![DOI](https://zenodo.org/badge/1001450434.svg)](https://doi.org/10.5281/zenodo.15672613)
+
 "Save Your Archive: BlackLives" is a proposed art installation series dedicated to honouring, preserving, and activating pivotal archival recordings of Black voices and histories. Conceived as an immersive and modular exhibition, the project bridges traditional archival practice and analogue audio heritage with contemporary digital technologies, offering audiences intimate engagements with voices from the Black British and wider African and Caribbean diasporic experience.
 
 Each installation will be framed thematically and situated within broader historical and cultural contexts—curated to invite reflection on social justice, cultural memory, political resistance, and artistic expression. The series aims to evolve over time, functioning as both a growing repository and a travelling exhibition platform.
