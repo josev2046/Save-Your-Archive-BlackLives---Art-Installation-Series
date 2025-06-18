@@ -1,5 +1,4 @@
-# Save Your Archive: BlackLives - Art Installation Series Funding Proposal
-
+# Save Your Archive: BlackLives - Art Installation Series 
 
 "Save Your Archive: BlackLives" is a proposed art installation series dedicated to honouring, preserving, and activating pivotal archival recordings of Black voices and histories. Conceived as an immersive and modular exhibition, the project bridges traditional archival practice and analogue audio heritage with contemporary digital technologies, offering audiences intimate engagements with voices from the Black British and wider African and Caribbean diasporic experience.
 
